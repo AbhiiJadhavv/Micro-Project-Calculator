@@ -1,2 +1,2 @@
-# Micro-Project-3
+# Micro-Project-Calculator
 Calculator
